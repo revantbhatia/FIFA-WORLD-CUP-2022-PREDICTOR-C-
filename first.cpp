@@ -225,10 +225,10 @@ int main() {
     cin >> temp1;
     if(temp1 == Lola){
         cout << " +++++++++++++++*****THE WINNERS ARE " << Lola;
-        cout << " *****+++++++++++++++"
+        cout << " *****+++++++++++++++";
     }
     else{
         cout << " +++++++++++++++*****THE WINNERS ARE " << Lolb;
-        cout << " *****+++++++++++++++"
+        cout << " *****+++++++++++++++";
     }
 }
